@@ -1,1 +1,1 @@
-coba js es6
+coba javascript
